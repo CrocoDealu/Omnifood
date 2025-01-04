@@ -42,6 +42,6 @@ To run a local copy of Omnifood, follow these steps:
 2. Open the cloned repository in your favorite code editor.
 3. Open the `index.html` file in a web browser to view the website.
 
-## Note**
+## Note
 
-Since we're using Vanilla JavaScript, there's no need for any additional build tools or bundlers like Webpack. Simply copy the `src/` directory into a server (like Apache or Nginx) and serve it up!
+This project was built during a course, it is not my own idea and simply showcases my skills for frontend.
